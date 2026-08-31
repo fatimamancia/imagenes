@@ -1,5 +1,7 @@
 # imagenes
 Repositorio para mis imágenes 2026. 
-# Agregamos una descripción completa 
 
-## Este es otro ejemplo
+# Repositorio público para imágenes
+Este es un repositorio al que podemos acceder para guardar, o descargar imágenes.
+
+## Imágenes que podrás encontrar.
